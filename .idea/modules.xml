@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExceptionsLection.iml" filepath="$PROJECT_DIR$/.idea/ExceptionsLection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lection01/Lection01.iml" filepath="$PROJECT_DIR$/Lection01/Lection01.iml" />
+    </modules>
+  </component>
+</project>
